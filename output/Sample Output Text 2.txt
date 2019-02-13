@@ -1,0 +1,69 @@
+X: 1
+T:AI
+%N
+S:EF
+M:6/8
+K:G
+P:A
+B/2c/2|"G"ded dBG|"Am"cBc "D7"d2d|"G"BGG G2B|"D"AFD "G"G2:|
+P:B
+d|"G"g2g b2a|"G"g2g b2g|"D7"f2d f2f|"G"g2d B2d|"C"e2e "G"d2B|"D7"c2A A2d|"G"B2G G2B|
+"G"d2d d2B|"D7"ABA D2A|"G"B2G B2c|"G"d2d d2d|
+"Am"edc "D7"B2A|"G"G2B G2B|"Am"A2G "D7"F2A|"G"B2B "D7"A2G|
+"G"B2B B2d|"C"efg "G"dBG|"C"E2A "D7"A2A|"G"B2B "D7"AGA|"G"BGG "D7"A2d|
+"G"B2G G2A|"G"BGB "D7"A2G|"G"BGB "D7"AGA|"G"BGG G2:|
+P:B
+|:d|"G"g2d B2d|"C"ede "D7"d2A|"G"Bcd "D7"def|"G"g2d "D7"e2d|"G"B2G G2:|
+P:B
+B/2c/2|"G"dBG GAB|"C"c2B c2B|"Am"ABc "D7"d2A|"G"BGG "D7"ABA|
+"G"G2B "D7"AGA|"G"BGG GBd|"C"efg "G"dBG|"D"Add "G"dcB|"C"cdc "G"BAG|
+"Am"EAA AGF|"Em"E2E "D7"E2D|"G"GAG "D7"FGA|"G"BGG G2:|
+P:B
+d|"G"g2d dBG|"G"ded "D7"cBA|"G"G2B "D7"AGF|"G"G2B "D7"AGF|"G"G2G G2:|
+P:B
+d|"G"d2B d2d|"C"efg "G"dBG|"C"cde "G"dBG|"Am"ABA A2:|
+P:B
+A|"D"AFD DFA|"D"ded "A7"cde|"D"fdd d2d|"D"fed "A7"cde|"D"d3 -d2:|
+
+P:B
+e|"Am"ABA ABc|"D"def "Am"edc|"G"BGB "D7"A2d|"G"BGG G2G|"D"AGA "A7"BAG|"D"Add d2:|
+P:B
+B/2d/2|"Am"eag age|"D"fga aAA|"G"gfe dcB|"D"Add d2:|
+
+P:B
+f/2g/2|"D"aba agf|"A"ecA A2e|"D"def "G"gfe|"D"d3 d2:|
+P:B
+|:e/2d/2|"A"cAA A2A|"Em"edB "A7"ABc|"D"ded "A7"Adc|"D"d3 -d2:|
+
+P:B
+|:e/2f/2|"G"g2g "D"agf|"A"ecA "G"Bcd|"A"cAA ABc|"E7"Bee dcB|
+"A"Ace "D"dfa|"Em"edB "A7"Ace|"D"def "G"gfe|"D"dfe d2:|
+
+"A"Ace a2g|"A"ecA AGF|"E7"E2e e2d|"A"cAA A2:|
+P:B
+c/2d/2|"A"efe cBA|"E"BcB "A"A2c|"A"e2d "E7"dBG|"A"A2A "D"d2:|
+P:B
+B|"A"c2e "D"d2d|"A"e2c "E7"Bcd|"A"c2c "E7"Bcd|"A"c2e c2d|"A"efe "E7"dBG|"A"A3 -A2::
+e|"D"faf fed|"A"c2e "D"fed|"A"ecA A2c|"E7"BcB "A"A2:|
+P:B
+f|"A"e2c cBA|"D"f2e dcB|"A"c2c ecA|"A"e2c cBA|"E7"BcB "A"A2:|
+P:B
+e|"A"e2c ABc|"D"d2d "A"e2d|"D"Add "A"c2c|"Bm"BAB "E7"B2B|"A"A3 A2:|
+P:B
+e|"A"a2a a2a|"A"aec ABc|"E"BAB "A"Ace|"A"aec "E7"Bcd|"A"cAA A2:|
+
+P:B
+c/2d/2|"A"efe efg|"D"faf "A"edc|"Bm"Bcd "A7"cBA|"D"d2d "A7"dcd|"D"d3 -d2:|
+
+P:B
+c/2d/2|"A"e2c e2c|"D"d2d d2d|"A"c2c ABc|"Bm"d2d "A7"e2e|
+"D"f2d "A7"cBA|"D"d2d "A7"cde|"D"d3 d2d|"D"A2d f2d|"G"B2G B2d|"D"A2F F2A|"D"d2c d2e|
+"D"f2f f2f|"A7"e2c c2c|"D"d2d d2d|"A7"edc "D"d2e|
+"D"f2d "A7"cBc|"D"d2d "A7"edc|"D"d2A "A7"ABc|"D"d3 -d2:|
+P:B
+A|"D"ded AFD|"G"BGB "D"Add|"D"FAA A2d|"D"AdA "G"GBd|"D"ABA A2:|
+P:B
+|:A|"D"dcd "A7"edc|"D"ded "A"cAA|"G"Bcd "D"def|"Em"gfe "A7"edc|"D"d3 -d2:|
+
+P:B
+f/2g/2|"D"afd AFA|"D"dfa "A7"gec|"D"def "A7"gec|"D"d3 -d2:|

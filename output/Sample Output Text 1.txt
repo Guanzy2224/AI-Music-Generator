@@ -1,0 +1,39 @@
+X: 4
+T:Chast O For The Morning In Maries
+%N
+S:via PR
+M:4/4
+L:1/4
+K:A
+c/2B/2|"A"A/2B/2c/2A/2 "A"c/2A/2B/2c/2|"D"d/2e/2f/2g/2 "A"a/2e/2f/2g/2|"D"a/2f/2d/2f/2 "A7"e/2d/2c/2B/2|"D"A/2B/2A/2F/2 D/2F/2A/2F/2|\
+"D"D/2F/2A/2F/2 D/2F/2D/2F/2|\
+"G"G/2B/2G/2B/2 "A7"A/2B/2c/2d/2|
+"D"f/2d/2A/2d/2 f/2d/2d/2d/2|"G"B/2d/2G/2B/2 "A7"A/2c/2B/2A/2|\
+"D"d/2c/2d/2e/2 "G"d/2B/2G/2B/2|\
+"D"A/2B/2A/2F/2 "A7"G/2E/2F/2G/2|
+"D"D/2F/2A/2F/2 "A7"G/2F/2E/2F/2|"D"DD/2F/2 A/2F/2D/2F/2|\
+"G"G/2B/2G/2B/2 "A"A/2c/2e/2c/2|"D"d/2A/2F/2A/2 "A7"G/2F/2G/2E/2:|
+K:D
+"D"D/2F/2A/2F/2 D/2F/2A/2d/2|"G"B/2d/2G/2B/2 "D"A/2F/2D/2F/2|"G"GB/2G/2 "A7"A/2F/2E/2F/2|
+"D"D/2F/2A/2F/2 "A7"E/2F/2G/2A/2|"D"d/2e/2d/2c/2 "G"B/2G/2B/2d/2|
+"A"e/2f/2e/2c/2 "G"d/2c/2B/2A/2|"Em"B/2G/2B/2d/2 "A"c/2B/2A/2G/2|
+"D"F/2D/2F/2A/2 "G"G/2B/2A/2G/2|"D"F/2A/2d/2c/2 "A7"e/2d/2e/2c/2|\
+"D"d/2A/2f/2A/2 "A7"g/2e/2c/2e/2|"D"dd d:|
+P:B
+f/2g/2|"D"a/2f/2d/2f/2 a/2f/2d/2f/2|"A"e/2c/2A/2c/2 "D"d/2e/2d/2c/2|"Em"B/2A/2B/2c/2 "A7"A/2G/2F/2E/2|
+"D"D/2F/2A/2F/2 D/2F/2A/2F/2|"G"G/2B/2G/2B/2 "A7"A/2G/2F/2G/2|"D"A/2F/2D/2F/2 "G"G:|
+P:B
+d/2c/2|"D"d/2e/2d/2c/2 B/2A/2B/2c/2|"G"d/2B/2g/2B/2 d/2B/2A/2B/2|"A"c/2B/2A/2G/2 "D"F/2G/2A/2F/2|\
+"Em"G/2F/2G/2B/2 "A"A:|
+
+P:B
+d/2e/2|"D"f/2d/2d/2d/2 "A7"c/2d/2e/2c/2|"D"dd d:|
+
+P:B
+A/2B/2|"A"c/2A/2c/2A/2 "E7"B/2G/2B/2d/2|"A"c/2B/2A/2G/2 "D"F/2A/2d/2f/2|\
+"Em"e/2d/2c/2B/2 "A"A/2B/2A/2B/2|"A"c/2A/2A/2c/2 "D"d/2c/2d/2e/2|\
+"D"df "A7"e/2f/2g/2e/2|"D"fd d:|
+
+P:B
+d/2e/2|"D"ff/2d/2 "A7"c/2d/2e/2c/2|"D"d/2e/2d/2B/2 A/2B/2c/2d/2|"A"e/2d/2c/2d/2 e/2c/2A/2c/2|\
+"D"dA A:|
